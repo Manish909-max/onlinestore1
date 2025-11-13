@@ -1,0 +1,18 @@
+body{
+    background-color: lightcyan;
+}
+button{
+    background-color: cadetblue;
+    color: bisque;
+}
+.container{
+    width: 300px;
+    margin:auto;
+    height: 400px;
+    text-align: center;
+    border-style: double;
+    
+}
+div{
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+
+.image{
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+}
+
+.head{
+    padding: 25px;
+    background-color: crimson;
+    
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 200px;
+    align-items: center;
+    margin-left: 350px;
+}
+hr{
+    background-color: plum;
+    height: 20px;
+}
+.contain{
+    width: 30px;
+    margin-right: 0%;
+    display: inline;
+}
+.page{
+    display: inline;
+    background-color: blue;
+}

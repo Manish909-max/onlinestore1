@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+
+
+.rag{
+    background-color: aqua;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    border-style: double;
+}

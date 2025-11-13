@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(green,lightcyan);
+}
+
+.container{
+    background-color: pink;
+   width: 300px;
+    margin:auto;
+    height: 250px;
+    text-align: center;
+    border-style: double;
+}
+
+.box{
+    background-color: lightblue;
+     width: 300px;
+    margin:auto;
+    height: 150px;
+    text-align: center;
+    border-style: double;
+
+}
